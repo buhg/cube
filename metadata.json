@@ -1,0 +1,15 @@
+{
+  "name": "vibin-cube",
+  "version": "0.1.0",
+  "author": "vibin",
+  "summary": "This is for the test",
+  "license": "Apache-2.0",
+  "source": "https://github.com/buhg/cube.git",
+  "project_page": "https://github.com/buhg/cube",
+  "issues_url": "https://github.com/buhg/cube/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
